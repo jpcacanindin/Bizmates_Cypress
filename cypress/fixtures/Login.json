@@ -1,0 +1,12 @@
+{
+"validUser": {
+  "username": "test",
+  "password": "test",
+  "welcome": "Welcome test"
+},
+"invalidUser": {
+  "username": "dsada3w231",
+  "password": "te.sdasdst"
+}
+}
+
